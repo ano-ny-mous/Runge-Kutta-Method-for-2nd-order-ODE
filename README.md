@@ -6,6 +6,10 @@ This MATLAB script implements the Runga Kutta Method to approximate the solution
 
 The Runga Kutta Method is a numerical technique used to solve ordinary differential equations (ODEs). In this script, it is applied to a second-order differential equation represented by the functions `f(x, y, z)` and `g(x, y, z)`.
 
+## Screenshots
+
+<img src="https://github.com/ano-ny-mous/Runge-Kutta-Method-for-2nd-order-ODE/assets/91519560/389a8c0e-2881-458e-80a2-0ef3906a7475" alt="Screenshot 1" width="600" >
+
 ## Usage
 
 1. Open MATLAB.
